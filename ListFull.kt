@@ -63,8 +63,7 @@ fun ListFull(modifier: Modifier = Modifier) {
     Column(
         modifier = Modifier
             .fillMaxWidth()
-            .padding(16.dp),
-
+            .padding(16.dp),
         ) {
         Text(
             text = "Gudang UMKM (Sesi 10)", fontSize = 26.sp, fontWeight = FontWeight.Bold,
